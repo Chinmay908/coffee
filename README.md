@@ -9,4 +9,12 @@ This is a blog website showcasing different types of Coffee. It also tells about
 * The Contact page to contact us.
 
 ## Implementaiton
+![Coffee](/images2/home.png)
+
+## Tech Stack
+* HTML
+* CSS
+
+## Website
+Click [here](https://chinmay908.github.io/coffee/index.html) to view.
 
